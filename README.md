@@ -5,7 +5,7 @@ This repository is a sort of "quick start" pack for anyone thinking of organisin
 
 ## Contents
 
-- **Independance-logo.svg** The logo used for the original IndepenDANCE event in East Lothian, in vector form. This image was created using [Inkscape](http://www.inkscape.org), although it should be editable in any good vector illustration package.
+- **Independance-logo.svg** The logo used for the original IndepenDANCE event in East Lothian, in vector form. This image was created using [Inkscape](http://www.inkscape.org), although it should be editable in any good vector illustration package. It uses the [Bell Bottom Laser](http://www.dafont.com/bell-bottom-laser.font) font.
 
 ## About IndepenDANCE
 
