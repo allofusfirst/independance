@@ -16,7 +16,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r"
-   sodipodi:docname="independance.svg"
+   sodipodi:docname="independance-logo.svg"
    inkscape:export-filename="/home/countjocular/independance.pdf.png"
    inkscape:export-xdpi="300.09332"
    inkscape:export-ydpi="300.09332">
@@ -27,15 +27,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.43206369"
-     inkscape:cx="735.7534"
-     inkscape:cy="-1.6092255"
+     inkscape:zoom="1.3499356"
+     inkscape:cx="498.53403"
+     inkscape:cy="221.03223"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="694"
-     inkscape:window-x="0"
+     inkscape:window-width="1888"
+     inkscape:window-height="1061"
+     inkscape:window-x="32"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="0"
@@ -209,7 +209,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -266,12 +266,6 @@
          x="25.702374"
          id="tspan4941"
          sodipodi:role="line">Indepen </tspan></text>
-    <path
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0"
-       id="path5186"
-       d="m 308.71136,153.45212 c 0,0 2.59425,3.4944 2.59425,3.4944 0,0 0.27578,-0.81286 0.27578,-0.81286 0,0 -1.55739,-1.77793 -1.55739,-1.77793 0,0 -1.31264,-0.90361 -1.31264,-0.90361"
-       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.86001301px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f1da1d;fill-opacity:1;stroke:none;stroke-width:0.14650033"
