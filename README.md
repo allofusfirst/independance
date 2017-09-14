@@ -15,7 +15,7 @@ The first IndepenDANCE was organised and hosted by Common Weal East Lothian in A
 
 [Ten top tips for hosting your own IndepenDANCE](https://github.com/allofusfirst/independance/wiki/Top-tips-for-hosting-your-own-IndepenDANCE)
 
-Here is [our eventbrite page](https://www.eventbrite.co.uk/e/indepen-dance-haddington-tickets-36011730054) for inspiration.
+Here is [our eventbrite page](https://www.eventbrite.co.uk/e/indepen-dance-haddington-tickets-36011730054) for inspiration (Click 'View Details' on the right hand side of the page)
 
 ## Contact us
 
