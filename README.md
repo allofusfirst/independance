@@ -8,6 +8,7 @@ This repository is a sort of "quick start" pack for anyone thinking of organisin
 - **[Independance-logo.svg](https://github.com/allofusfirst/independance/raw/master/independance-logo.svg)** The logo used for the original IndepenDANCE event in East Lothian, in vector form. This image was created using [Inkscape](http://www.inkscape.org), although it should be editable in any good vector illustration package. It uses the [Bell Bottom Laser](http://www.dafont.com/bell-bottom-laser.font) font.
 - **[independance-logo-no-branding.png](https://github.com/allofusfirst/independance/raw/master/independance-logo-no-branding.png)** The logo, in high-resolution PNG format, with no additional branding.
 - **[independance-logo-cwel-branding.png](https://github.com/allofusfirst/independance/raw/master/independance-logo-cwel-branding.png)** The logo, in high-resolution PNG format, with Common Weal East Lothian branding.
+- **[images/](https://github.com/allofusfirst/independance/tree/master/images)** A directory of photos taken at the first **IndepeDANCE**.
 
 ## About IndepenDANCE
 
