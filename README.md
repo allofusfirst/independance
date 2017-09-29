@@ -13,6 +13,9 @@ This repository is a sort of "quick start" pack for anyone thinking of organisin
 
 The first IndepenDANCE was organised and hosted by Common Weal East Lothian in August 2017.
 
+![Image of Elaine C Smith](https://github.com/allofusfirst/independance/raw/master/IMG_0434.JPG)
+![Image of Lesley Riddock](https://github.com/allofusfirst/independance/raw/master/received_10155983011848974.jpeg)
+
 [Ten top tips for hosting your own IndepenDANCE](https://github.com/allofusfirst/independance/wiki/Top-tips-for-hosting-your-own-IndepenDANCE)
 
 Here is [our eventbrite page](https://www.eventbrite.co.uk/e/indepen-dance-haddington-tickets-36011730054) for inspiration (Click 'View Details' on the right hand side of the page)
